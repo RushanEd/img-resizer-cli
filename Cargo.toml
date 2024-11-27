@@ -1,0 +1,8 @@
+[package]
+name = "img-resize-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+display-info = "0.5.2"
+image = "0.25.5"
